@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="../img/129290830.png" alt="<dev>done" width="80">
+  <img src="https://github.com/dev-done/.github/blob/main/img/129290830.png?raw=true" alt="<dev>done" width="80">
   <br>
   &lt;dev&gt;done
   <br>
